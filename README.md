@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mateo</h1>
-<h3 align="center">A passionate software Engineer student from Colombia</h3>
+<h3 align="center">A passionate software Engineer from Colombia</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/mateovelasquezmorales?tab=repositories](https://github.com/mateovelasquezmorales?tab=repositories)
 
-- 📫 How to reach me **mateov_morales@outlook.com**
+- 📫 How to reach me **[Instagram](https://www.instagram.com/matvelm0/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

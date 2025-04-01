@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateo</h1>
 <h3 align="center">A passionate software Engineer from Colombia</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/mateovelasquezmorales?tab=repositories](https://github.com/mateovelasquezmorales?tab=repositories)
+- 👨‍💻 All of my projects are available at [My repos](https://github.com/Matjeet?tab=repositories)
 
 - 📫 How to reach me **[Instagram](https://www.instagram.com/matvelm0/)**
 

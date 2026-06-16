@@ -79,8 +79,8 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Matjeet/Matjeet/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Matjeet/Matjeet/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matjeet&show_icons=true&theme=onedark&title_color=ece636&hide_border=true&locale=en&layout=compact" alt="matjeet" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matjeet&show_icons=true&theme=onedark&title_color=ece636&hide_border=true&locale=en" alt="matjeet" /></p>
 </div>
 
 ###
